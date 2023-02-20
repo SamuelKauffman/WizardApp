@@ -1,5 +1,3 @@
-package CS131Lab2_SJK;
-
 
 /**
  * This class represents a wizard for
