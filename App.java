@@ -1,4 +1,3 @@
-package CS131Lab2_SJK;
 
 /**
  * @author Sam Kauffman
